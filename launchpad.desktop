@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
 Name=Launchpad
-Exec=sh /home/thepratham2/.local/share/applications/launchpad/launchpad.sh
+Exec=sh /home/USERNAME/.local/share/applications/launchpad/launchpad.sh
 Icon=~/.local/share/applications/launchpad/launchpad.png
 Terminal=false
